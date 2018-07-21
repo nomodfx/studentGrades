@@ -1,4 +1,5 @@
-//program that registers name and marks
+//This program allows a student's name to be registerd followed by two grades they have recived 
+//Also finds the average of the two scores
 #include<iostream>
 using namespace std;
 
